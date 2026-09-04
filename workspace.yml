@@ -4,6 +4,8 @@ info:
   type: workspace
 
 collections:
+  - name: "test-collection"
+    path: "collections/test-collection"
 
 specs:
 
